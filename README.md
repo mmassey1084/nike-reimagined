@@ -17,6 +17,6 @@ Deployed on ▲ **Vercel** for lightning-fast performance 🚀.
 ## Installation
 
 ```bash
-git clone https://github.com/adityadomle/nike-reimagined.git
+git clone https://github.com/mmassey1084/nike-reimagined.git
 cd nike-reimagined
 npm install
